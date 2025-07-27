@@ -1,0 +1,8 @@
+streamlit run "C:\Users\Saurabh Kumar\Desktop\Multiple Disease Predication System\MDP.py"
+streamlit
+scikit-learn
+pandas
+numpy
+streamlit-option-menu
+
+
